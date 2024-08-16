@@ -23,8 +23,8 @@ navbar-links:
   Network: "network"
   Connect: "connect"
   Organization:
-    - People and Committees: "people-and-committees
-    - Steering Committee: "steering-committee
+    - People and Committees: "people-and-committees"
+    - Steering Committee: "steering-committee"
 
 ################
 # --- Logo --- #
