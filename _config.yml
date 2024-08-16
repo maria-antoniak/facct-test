@@ -10,21 +10,24 @@
 ############################
 
 # Name of website
-title: My website
+title: ACM FAccT
 
 # Your name to show in the footer
-author: Some Person
+author: ACM FAccT
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Network: "network"
+  Connect: "connect"
+  Organization:
+    - People & Committees: "people-and-committees
+    - Steering Committee: "steering-committee
+  # Connect:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
